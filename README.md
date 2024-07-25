@@ -1,6 +1,6 @@
 # Stock Data Viewer
 
-A React application that displays paginated stock data fetched from the Alpha Vantage API.
+A React application that displays paginated stock data fetched from the Alpha Vantage API. Access the deployed [website here](https://loveth-clepher-task-1.netlify.app/)
 
 ## Features
 
